@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**muroni-cristiano/muroni-cristiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 🚀👨🏿‍🚀Cristiano Muroni!
 
 - Olá, me chamo Cristiano Muroni! 
