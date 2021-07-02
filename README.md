@@ -11,4 +11,4 @@ Atualmente desenvolvo minhas tasks utilizando JavaScript, ambiente NodeJs.
 
 - Atualmente eu trabalho como ChatBot Developer na Compasso Uol.
 - Especializado em Blip framework, Js e Nodejs.
-Here are some ideas to get you started:
+
